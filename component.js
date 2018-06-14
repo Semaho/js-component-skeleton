@@ -1,6 +1,3 @@
-# js-component-skeleton
-
-```javascript
 var Component = function(elem)
 {
     // DOM.
@@ -29,4 +26,3 @@ $(document).ready(function()
         var comp = new Component(this);
     });
 });
-```
